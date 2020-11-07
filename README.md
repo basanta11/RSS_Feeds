@@ -13,6 +13,8 @@ Procedure to Run On Local machine
 <br/>
 4. Start Apache Server Form Softwares Like xampp	
 <br/>
+5. Run "php artisan serve" sto start deployment	
+<br/>
 
 Env File is Already  Created.	
 <br/>
